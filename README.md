@@ -1,4 +1,7 @@
-# VLM-R1: A stable and generalizable R1-style Large Vision-Language Model
+Best performing trained model
+```
+okolukisa1/Qwen2.5-vl-segmendation-grpo
+```
 
 
 ## 🛠️ Setup
